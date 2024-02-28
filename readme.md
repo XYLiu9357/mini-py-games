@@ -1,6 +1,6 @@
 # Mini-Python-Games
 
-This repository contains a collection of mini games implemented in Python. All the games have a `run()` method, and the appropriate to access and run the games would be to create a game object that matches the type of game. 
+This repository contains a collection of mini games implemented in Python. All the games have a `run()` method, and the appropriate way to access and run the games would be to create a game object that matches the type of game. Some games may have one or more bot-opponents. Checkout the documentation for each individual game below. Have fun! 
 
 ## Tic-tac-toe 
 
